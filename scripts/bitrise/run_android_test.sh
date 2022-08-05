@@ -1,1 +1,1 @@
-mvn -DtestNGFile='config\testng_appium.xml' clean -f pom.xml
+mvn -DtestNGFile='config\testng_appium.xml' clean install -f pom.xml
