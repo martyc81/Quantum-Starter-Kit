@@ -1,1 +1,1 @@
-mvn -DtestNGFile='config\testng_appium.xml' clean -f ./pom 
+mvn -DtestNGFile='config\testng_appium.xml' clean -f pom.xml
