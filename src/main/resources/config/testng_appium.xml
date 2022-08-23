@@ -11,7 +11,7 @@
 
     <test name="Perfecto Android Device- Arity Bitrise POC app 1" enabled="true">
         <parameter name="driver.capabilities.model" value="Galaxy S.*"></parameter>
-        <parameter name="driver.capabilities.app" value="PUBLIC:ARITY_BR_POC_APP.apk"></parameter>
+        <parameter name="driver.capabilities.app" value="PUBLIC:ARITY_BR_ANDROID.apk"></parameter>
         <parameter name="driver.capabilities.appPackage" value="com.tts.aritytestapp"/>
         <parameter name="env.resources" value="src/main/resources/android"/>
         <groups>
